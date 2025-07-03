@@ -100,7 +100,7 @@ For issues, feature requests, or questions, please visit the [GitHub Issues](htt
 
 ## Credits
 
-Created by [Your Name] • Powered by SwiftUI and CoreMIDI
+Created by vibecodertoshi use Claude Code • Powered by SwiftUI and CoreMIDI
 
 ## License
 
